@@ -1,0 +1,8 @@
+org/emerchant/payments/test.class
+org/emerchant/payments/CreditCards.class
+org/emerchant/payments/GatewayResponse.class
+org/emerchant/payments/Gateway.class
+org/emerchant/payments/Address.class
+org/emerchant/payments/GatewayURLs.class
+org/emerchant/payments/Order.class
+org/emerchant/payments/GatewayTest.class
